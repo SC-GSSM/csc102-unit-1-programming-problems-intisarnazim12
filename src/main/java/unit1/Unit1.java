@@ -70,6 +70,11 @@ public class Unit1 {
      // Your code here
       // Placeholder return
      double sum = (a*b);
-     return sum;
+     return public static double multiplyIntAndDouble(int a, double b) {
+     // Your code here
+      // Placeholder return
+     
+     return (a*b);
+ 
  }
 }
