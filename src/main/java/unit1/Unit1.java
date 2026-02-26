@@ -40,11 +40,7 @@ public class Unit1 {
   * @return true if value is true, false otherwise
   */
  public static boolean isTrue(boolean value) {
-     // Your code here
-     if (value == true) {
-        return true;
-     }
-     return false; // Placeholder return
+    return value;
  }
 
  /**r
@@ -70,11 +66,7 @@ public class Unit1 {
      // Your code here
       // Placeholder return
      double sum = (a*b);
-     return public static double multiplyIntAndDouble(int a, double b) {
-     // Your code here
-      // Placeholder return
-     
-     return (a*b);
+     return sum;
  
  }
 }
